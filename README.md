@@ -109,17 +109,7 @@ The program presents a simple text-based menu with the following options:
 - **saveNote()** 💾
     - Saves a note to the file `notes.txt`.
 
----
 
-## 🎉 Conclusion
-
-Thank you for using the **Note-Taking Application**! 🎉 We hope this small tool helps you stay organized, jot down your ideas, and never forget an important thought. 📓✨
-
-Feel free to customize this application, add features, and improve it. We welcome contributions to make this app even more powerful! 🚀
-
-Don't forget to ⭐️ this repo if you find it helpful, and feel free to **contribute** with your suggestions or improvements! 💡
-
-Keep note-taking and stay productive! 💪✨
 
 ---
 
@@ -150,5 +140,17 @@ Steps to contribute:
 Feel free to **fork** this repository, **open issues**, and **submit pull requests**. Let's build something amazing together! 🚀
 
 Remember, a note a day keeps the chaos away! ✨📝
+
+---
+
+## 🎉 Conclusion
+
+Thank you for using the **Note-Taking Application**! 🎉 We hope this small tool helps you stay organized, jot down your ideas, and never forget an important thought. 📓✨
+
+Feel free to customize this application, add features, and improve it. We welcome contributions to make this app even more powerful! 🚀
+
+Don't forget to ⭐️ this repo if you find it helpful, and feel free to **contribute** with your suggestions or improvements! 💡
+
+Keep note-taking and stay productive! 💪✨
 
 ---
